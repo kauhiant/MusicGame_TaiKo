@@ -1,0 +1,9 @@
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\bin\Debug\MusicGame.exe.config
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\bin\Debug\MusicGame.exe
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\bin\Debug\MusicGame.pdb
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.csprojResolveAssemblyReference.cache
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.Form1.resources
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.Properties.Resources.resources
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.csproj.GenerateResource.Cache
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.exe
+d:\文件\visual studio 2015\Projects\MusicGame\MusicGame\obj\Debug\MusicGame.pdb
